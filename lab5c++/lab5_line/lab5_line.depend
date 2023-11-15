@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1699954990 source:d:\iti intake44\c labs\lab5_line\main.cpp
+	<iostream>
+	<graphics.h>
+
